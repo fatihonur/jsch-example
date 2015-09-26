@@ -1,0 +1,7 @@
+# ignore eclipse env 
+.classpath
+.project
+.settings
+
+# maven specific
+target/

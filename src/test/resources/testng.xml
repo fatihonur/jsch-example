@@ -1,0 +1,12 @@
+  <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  <suite name="SshClientTestSuite" verbose="1">
+    <test name="TestNG-Tests">
+      <classes>
+        <class name="com.fatihonur.ssh.jsch.SshClientTest"></class>
+      </classes>
+    </test>
+    <test name="JUnit-Tests (Example)" junit="false">
+      <classes>
+      </classes>
+    </test>
+  </suite>
